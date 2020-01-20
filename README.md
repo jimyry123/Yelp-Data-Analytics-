@@ -2,4 +2,6 @@
 
 https://community.cloud.databricks.com/?o=3209370155311626#notebook/3857355031085297/command/928601267761163
 
-(Follow link provided to view the Yelp's analytics to identify whether a user can be classified as elite and non-elite, as well as pre-elite and post-elite.)
+Utilized Apache Spark to classified the differences between elite and non-elite Yelp's users, as well as pre and post-elite users.
+
+(Follow link provided to view to view the Spark's page.)
