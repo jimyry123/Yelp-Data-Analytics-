@@ -1,4 +1,4 @@
-# Yelp-Data-Analytics-
+# Yelp-Data-Analytics
 
 https://community.cloud.databricks.com/?o=3209370155311626#notebook/3857355031085297/command/928601267761163
 
